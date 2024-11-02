@@ -1,0 +1,20 @@
+TESTING H23--kmiyamoto5
+----------------------------------------------------------------------
+Checking function: greenScreen -------------------
+   + greenScreen worked correctly for images/ReyGreenScreen.png
+   + greenScreen worked correctly for images/lego.png
+   + greenScreen worked correctly for images/cpp.jpg
+   + greenScreen worked correctly for images/fence-ivy.jpg
+----------------------------------------------------------------------
+  Tests passing 4/4 (100%).
+
+Checking function: composite -------------------
+   + composite worked correctly for images/ReyGreenScreen.png
+   + composite worked correctly for images/leaves.png
+----------------------------------------------------------------------
+  Tests passing 2/2 (100%).
+
+----------------------------------------------------------------------
+H23:kmiyamoto5:ALL TESTS -- PASS 6/6 (100%).
+----------------------------------------------------------------------
+MTY4OTQ2NzYzNjprbWl5YW1vdG81OkgyMzoxMDAuMDAl
