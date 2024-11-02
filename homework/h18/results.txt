@@ -1,0 +1,16 @@
+TESTING H18--kmiyamoto5
+----------------------------------------------------------------------
+Checking function: Triangle Structure -------------------
+   + Perimeter of Triangle((1,3), (-2,-2), (3,-1))->15.4021: Success
+   + Perimeter of Triangle((2,3), (5,1), (5,5))->11.2111: Success
+   + Perimeter of Triangle((4,4), (3,5), (1,1))->10.1290: Success
+   + Perimeter of Triangle((2,3), (2,2), (1,3))->3.4142: Success
+   + Perimeter of Triangle((3,2), (2,5), (3,4))->6.5765: Success
+   + Perimeter of Triangle((3,3), (2,2), (4,1))->5.8863: Success
+----------------------------------------------------------------------
+  Tests passing 6/6 (100%).
+
+----------------------------------------------------------------------
+H18:kmiyamoto5:ALL TESTS -- PASS 6/6 (100%).
+----------------------------------------------------------------------
+MTY5MDU4MTg3MTprbWl5YW1vdG81OkgxODoxMDAuMDAl

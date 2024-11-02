@@ -1,0 +1,19 @@
+TESTING H17--kmiyamoto5
+----------------------------------------------------------------------
+Checking function: Point Structure -------------------
+   + Read input for p1.x->5: Success
+   + Read input for p1.y->10: Success
+   + Read input for p2.x->7: Success
+   + Read input for p2.y->15: Success
+   + Write correctly displays p1->(5, 10): Success
+   + Write correctly displays p2->(7, 15): Success
+   + Check distance between p1 and p2->5.385165: Success
+   + Check mid.x midpoint between p1 and p2->6: Success
+   + Check mid.y midpoint between p1 and p2->12: Success
+----------------------------------------------------------------------
+  Tests passing 9/9 (100%).
+
+----------------------------------------------------------------------
+H17:kmiyamoto5:ALL TESTS -- PASS 9/9 (100%).
+----------------------------------------------------------------------
+MTY5MDU4MTE2NDprbWl5YW1vdG81OkgxNzoxMDAuMDAl

@@ -1,0 +1,41 @@
+INSTRUCTOR TESTING H15--kmiyamoto5
+----------------------------------------------------------------------
+Checking function: tokenStats -------------------
+   + data/0.txt output lines->1
+   + Line #1.->Longest line: 
+   + data/2.txt output lines->5
+   + Line #1.->Line 1 has 7 tokens (longest = 9)
+   + Line #2.->Line 2 has 4 tokens (longest = 7)
+   + Line #3.->Line 3 has 1 tokens (longest = 3)
+   + Line #4.->Line 4 has 2 tokens (longest = 8)
+   + Line #5.->Longest line: presence, never troubled himself with so much
+   + data/1.txt output lines->6
+   + Line #1.->Line 1 has 3 tokens (longest = 6)
+   + Line #2.->Line 2 has 4 tokens (longest = 8)
+   + Line #3.->Line 3 has 3 tokens (longest = 15)
+   + Line #4.->Line 4 has 9 tokens (longest = 9)
+   + Line #5.->Line 5 has 4 tokens (longest = 6)
+   + data/9.txt output lines->5
+   + Line #1.->Line 1 has 8 tokens (longest = 8)
+   + Line #2.->Line 2 has 4 tokens (longest = 10)
+   + Line #3.->Line 3 has 5 tokens (longest = 14)
+   + Line #4.->Line 4 has 4 tokens (longest = 8)
+   + Line #5.->Longest line: and yet he seemed entirely at his ease;
+   + data/13.txt output lines->6
+   + Line #1.->Line 1 has 8 tokens (longest = 9)
+   + Line #2.->Line 2 has 6 tokens (longest = 7)
+   + Line #3.->Line 3 has 9 tokens (longest = 10)
+   + Line #4.->Line 4 has 5 tokens (longest = 7)
+   + Line #5.->Line 5 has 6 tokens (longest = 8)
+   + data/3.txt output lines->4
+   + Line #1.->Line 1 has 3 tokens (longest = 8)
+   + Line #2.->Line 2 has 6 tokens (longest = 10)
+   + Line #3.->Line 3 has 3 tokens (longest = 11)
+   + Line #4.->Longest line: the pages of the marvellous book.
+----------------------------------------------------------------------
+  Tests passing 31/31 (100%).
+
+----------------------------------------------------------------------
+INSTRUCTOR TESTS H15:kmiyamoto5: ALL TESTS -- PASS 31/31 (100%).
+----------------------------------------------------------------------
+MTY4ODM0MDQ1MDprbWl5YW1vdG81OkgxNToxMDAuMDAl
