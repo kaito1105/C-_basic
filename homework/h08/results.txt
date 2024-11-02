@@ -1,0 +1,44 @@
+INSTRUCTOR TESTING H08--kmiyamoto5
+----------------------------------------------------------------------
+Checking function: Tests for toRoman() -------------------
+   + toRoman(0)->OUT OF RANGE
+   + toRoman(3766)->MMMDCCLXVI
+   + toRoman(1625)->MDCXXV
+   + toRoman(2358)->MMCCCLVIII
+   + toRoman(543)->DXLIII
+   + toRoman(579)->DLXXIX
+   + toRoman(3011)->MMMXI
+   + toRoman(78)->LXXVIII
+   + toRoman(25)->XXV
+   + toRoman(2652)->MMDCLII
+----------------------------------------------------------------------
+  Tests passing 10/10 (100%).
+
+Checking function: Tests for ones() -------------------
+   + ones(6)->VI
+   + ones(4)->IV
+   + ones(2)->II
+   + ones(5)->V
+----------------------------------------------------------------------
+  Tests passing 4/4 (100%).
+
+Checking function: Tests for tens() -------------------
+   + tens(3)->XXX
+   + tens(9)->XC
+   + tens(1)->X
+   + tens(2)->XX
+----------------------------------------------------------------------
+  Tests passing 4/4 (100%).
+
+Checking function: Tests for hundreds() -------------------
+   + hundreds(5)->D
+   + hundreds(6)->DC
+   + hundreds(2)->CC
+   + hundreds(4)->CD
+----------------------------------------------------------------------
+  Tests passing 4/4 (100%).
+
+----------------------------------------------------------------------
+INSTRUCTOR TESTS H08:kmiyamoto5: ALL TESTS -- PASS 22/22 (100%).
+----------------------------------------------------------------------
+MTY4NzQ3ODU2MTprbWl5YW1vdG81OkgwODoxMDAuMDAl

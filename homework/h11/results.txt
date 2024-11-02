@@ -1,0 +1,20 @@
+INSTRUCTOR TESTING H11--kmiyamoto5
+----------------------------------------------------------------------
+Checking function: cipher -------------------
+   + (enc::cipher(in, out, 5), out.str())->fyyfhp fy ifbs
+   + (enc::cipher(in, out, 3), out.str())->Krz qrz eurzq frz
+   + (enc::cipher(in, out, 17), out.str())->Z cfmv TJ 150
+----------------------------------------------------------------------
+  Tests passing 3/3 (100%).
+
+Checking function: plaintext -------------------
+   + (enc::plaintext(in, out, 5), out.str())->attack at dawn
+   + (enc::plaintext(in, out, 3), out.str())->How now brown cow
+   + (enc::plaintext(in, out, 17), out.str())->I love CS 150
+----------------------------------------------------------------------
+  Tests passing 3/3 (100%).
+
+----------------------------------------------------------------------
+INSTRUCTOR TESTS H11:kmiyamoto5: ALL TESTS -- PASS 6/6 (100%).
+----------------------------------------------------------------------
+MTY4ODI5NjU2MDprbWl5YW1vdG81OkgxMToxMDAuMDAl

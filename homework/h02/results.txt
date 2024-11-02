@@ -1,0 +1,21 @@
+INSTRUCTOR TESTING H02--kmiyamoto5
+----------------------------------------------------------------------
+   + Input of F-->Invalid combination
+   + Input of A->4.0
+   + Input of D-->0.7
+   + Input of A+->Invalid combination
+   + Input of a->Invalid input
+   + Input of Abcdefg->Invalid input
+   + Input of Z->Invalid input
+   + Input of C+->2.3
+   + Input of D+->1.3
+   + Input of C-->1.7
+   + Input of B++->Invalid input
+   + Input of B-->2.7
+   + Input of -A->Invalid input
+   + Input of D->1.0
+   + Input of A-->3.7
+----------------------------------------------------------------------
+INSTRUCTOR TESTS H02:kmiyamoto5: ALL TESTS -- PASS 15/15 (100%).
+----------------------------------------------------------------------
+MTY4NzA0NDA4NzprbWl5YW1vdG81OkgwMjoxMDAuMDAl

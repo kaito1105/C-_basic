@@ -1,0 +1,26 @@
+INSTRUCTOR TESTING H05--kmiyamoto5
+----------------------------------------------------------------------
+Checking function: sumNums("str") -------------------
+   + sumNums("we69a9es6l449")
+   + sumNums("7zh")
+   + sumNums("xw55t")
+   + sumNums("urce")
+   + sumNums("d36")
+   + sumNums("hdv00lb324eie")
+   + sumNums("abc123xyz")
+   + sumNums("rj4xubf2")
+   + sumNums("ase06xj")
+   + sumNums("mjw69g9j3uxh")
+   + sumNums("8")
+   + sumNums("9l65847y44")
+   + sumNums("a1234bb11")
+   + sumNums("a5r8rfl")
+   + sumNums("a22bbb3")
+   + sumNums("5vcpdx7053911")
+----------------------------------------------------------------------
+  Tests passing 16/16 (100%).
+
+----------------------------------------------------------------------
+INSTRUCTOR TESTS H05:kmiyamoto5: ALL TESTS -- PASS 16/16 (100%).
+----------------------------------------------------------------------
+MTY4NzQ2MTMyNTprbWl5YW1vdG81OkgwNToxMDAuMDAl

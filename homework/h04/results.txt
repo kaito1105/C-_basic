@@ -1,0 +1,25 @@
+INSTRUCTOR TESTING H04--kmiyamoto5
+----------------------------------------------------------------------
+Checking function: toFrenchGender("country") -------------------
+   + toFrenchGender("Equateur")->l'Equateur
+   + toFrenchGender("Angleterre")->l'Angleterre
+   + toFrenchGender("Pays-Bas")->les Pays-Bas
+   + toFrenchGender("iles Salomon")->les iles Salomon
+   + toFrenchGender("France")->la France
+   + toFrenchGender("Etats-Unis")->les Etats-Unis
+   + toFrenchGender("Slovenie")->la Slovenie
+   + toFrenchGender("Madagascar")->Madagascar
+   + toFrenchGender("Bresil")->le Bresil
+   + toFrenchGender("Mexique")->le Mexique
+   + toFrenchGender("Perou")->le Perou
+   + toFrenchGender("Cyprus")->Cyprus
+   + toFrenchGender("iles Galapagos")->les iles Galapagos
+   + toFrenchGender("Honduras")->le Honduras
+   + toFrenchGender("Republique dominicaine")->la Republique dominicaine
+----------------------------------------------------------------------
+  Tests passing 15/15 (100%).
+
+----------------------------------------------------------------------
+INSTRUCTOR TESTS H04:kmiyamoto5: ALL TESTS -- PASS 15/15 (100%).
+----------------------------------------------------------------------
+MTY4NzQ2MTAxOTprbWl5YW1vdG81OkgwNDoxMDAuMDAl
