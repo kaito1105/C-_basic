@@ -1,0 +1,64 @@
+INSTRUCTOR TESTING H26--kmiyamoto5
+----------------------------------------------------------------------
+Checking function: copyEvens -------------------
+   + copyEvens({3, 2, 4, 5, 8})->{2, 4, 8}
+   + bSize->3
+   + copyEvens({6, 1, 2, 4, 5, 8})->{6, 2, 4, 8}
+   + bSize->4
+   + copyEvens({3, 1, 4, 1, 5})->{4}
+   + bSize->1
+   + copyEvens({2})->{2}
+   + bSize->1
+   + copyEvens({6, 2, 4, 8})->{6, 2, 4, 8}
+   + bSize->4
+   + copyEvens({7, 2, 4, 8})->{2, 4, 8}
+   + bSize->3
+   + copyEvens({7, 2, 3, 8})->{2, 8}
+   + bSize->2
+   + copyEvens({1, 8, 4})->{8, 4}
+   + bSize->2
+   + copyEvens({1, 3, 9})->{}
+   + bSize->0
+----------------------------------------------------------------------
+  Tests passing 18/18 (100%).
+
+Checking function: copyEvens Error Check -------------------
+   + copyEvens throws an exception: Error: invalid length
+----------------------------------------------------------------------
+  Tests passing 1/1 (100%).
+
+Checking function: cliqueCount -------------------
+   + cliqueCount({1, 2, 2, 3, 4, 4})->2
+   + cliqueCount({1, 1, 2, 1, 1})->2
+   + cliqueCount({1, 1, 1, 1, 1})->1
+   + cliqueCount({1, 2, 3})->0
+   + cliqueCount({2, 2, 1, 1, 1, 2, 1, 1, 2, 2})->4
+   + cliqueCount({0, 2, 2, 1, 1, 1, 2, 1, 1, 2, 2})->4
+   + cliqueCount({0, 0, 2, 2, 1, 1, 1, 2, 1, 1, 2, 2})->5
+   + cliqueCount({0, 0, 0, 2, 2, 1, 1, 1, 2, 1, 1, 2, 2})->5
+   + cliqueCount({})->0
+----------------------------------------------------------------------
+  Tests passing 9/9 (100%).
+
+Checking function: sevenEleven -------------------
+   + sevenEleven({1, 7, 1, 11})->{1, 7, 11, 1}
+   + sevenEleven({1, 7, 1, 11, 11, 7, 1})->{1, 7, 11, 1, 1, 7, 11}
+   + sevenEleven({7, 2, 2, 11})->{7, 11, 2, 2}
+   + sevenEleven({7, 2, 7, 2, 11, 11})->{7, 11, 7, 11, 2, 2}
+   + sevenEleven({2, 7, 2, 7, 2, 11, 11})->{2, 7, 11, 7, 11, 2, 2}
+   + sevenEleven({5, 7, 5, 11, 5, 11, 5, 11, 7, 5, 7, 5})->{5, 7, 11, 5, 5, 5, 5, 5, 7, 11, 7, 11}
+   + sevenEleven({7, 1, 11})->{7, 11, 1}
+   + sevenEleven({7, 11, 1})->{7, 11, 1}
+   + sevenEleven({1, 1, 1})->{1, 1, 1}
+   + sevenEleven({1})->{1}
+   + sevenEleven({})->{}
+   + sevenEleven({3, 7, 4, 5, 11})->{3, 7, 11, 5, 4}
+   + sevenEleven({7, 1, 11, 7, 1, 11})->{7, 11, 1, 7, 11, 1}
+   + sevenEleven({7, 1, 1, 7, 11, 11})->{7, 11, 1, 7, 11, 1}
+----------------------------------------------------------------------
+  Tests passing 14/14 (100%).
+
+----------------------------------------------------------------------
+INSTRUCTOR TESTS H26:kmiyamoto5: ALL TESTS -- PASS 42/42 (100%).
+----------------------------------------------------------------------
+MTY4OTU2NDY0MTprbWl5YW1vdG81OkgyNjoxMDAuMDAl

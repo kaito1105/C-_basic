@@ -1,0 +1,59 @@
+TESTING H25--kmiyamoto5
+----------------------------------------------------------------------
+Checking function: alternatingSum -------------------
+   + alternatingSum({564})->564
+   + alternatingSum({840, 269})->571
+   + alternatingSum({745, 290, 134})->589
+   + alternatingSum({653, 627, 502, 372})->156
+   + alternatingSum({53, 428, 800, 873, 59})->-389
+   + alternatingSum({394, 870, 510, 519, 287, 388})->-586
+   + alternatingSum({518, 267, 491, 721, 9, 179, 993})->844
+   + alternatingSum({311, 380, 953, 360, 603, 555, 220, 990})->-198
+   + alternatingSum({622, 177, 562, 288, 3, 103, 444, 972, 626})->717
+   + alternatingSum({267, 729, 707, 292, 523, 301, 89, 600, 731, 707})->-312
+   + alternatingSum({63, 598, 971, 489, 4, 834, 557, 819, 847, 778, 653})->-423
+   + alternatingSum({947, 823, 611, 226, 847, 950, 882, 620, 875, 356, 215, 550})->852
+   + alternatingSum({369, 288, 846, 957, 694, 533, 257, 682, 807, 186, 688, 77, 483})->1421
+   + alternatingSum({17, 643, 914, 795, 117, 321, 329, 831, 518, 937, 808, 347, 55, 706})->-1822
+----------------------------------------------------------------------
+  Tests passing 14/14 (100%).
+
+Checking function: Test the minMax function -------------------
+ -- double a[] = {0, 2.2, 3.5, -1.2, -2, 9, 17, 4, 3, 12, 175, 9, 15};
+   + Maximum of first 4 elements->&a[2]
+   + Minimum of first 4 elements->&a[3]
+   + Maximum of first 0 elements->nullptr
+   + Minimum of first 0 elements->nullptr
+   + Maximum of first 1 elements->&a[0]
+   + Minimum of first 1 elements->&a[0]
+   + Maximum of first 2 elements->&a[1]
+   + Minimum of first 2 elements->&a[0]
+   + Maximum of first 5 elements->&a[2]
+   + Minimum of first 5 elements->&a[4]
+   + Maximum of last 5 elements->&a[10]
+   + Minimum of last 5 elements->&a[8]
+   + Maximum of all elements->&a[10]
+   + Minimum of all elements->&a[4]
+   + Maximum of some middle elements->&a[6]
+   + Minimum of some middle elements->&a[8]
+----------------------------------------------------------------------
+  Tests passing 16/16 (100%).
+
+Checking function: sameSet -------------------
+   + sameSet({11}, {11, 11, 11})->true
+   + sameSet({1, 4, 9, 16, 9, 7, 4, 9, 11}, {11, 11, 7, 9, 16, 4, 1})->true
+   + sameSet({1, 4, 1}, {11, 11, 7, 9, 16, 4, 1})->false
+   + sameSet({1, 1, 11}, {11, 11, 7})->false
+   + sameSet({1, 4, 9, 16}, {9, 4, 1})->false
+   + sameSet({11, 11}, {11})->true
+   + sameSet({1, 4, 9, 16}, {9, 4, 1})->false
+   + sameSet({11, 11, 550, 650}, {11, 550, 550, 650, 550})->true
+   + sameSet({11, 11, 11, 11, 2}, {2, 2, 2, 11})->true
+   + sameSet({1, 4, 9}, {9, 4, 1, 16})->false
+----------------------------------------------------------------------
+  Tests passing 10/10 (100%).
+
+----------------------------------------------------------------------
+H25:kmiyamoto5:ALL TESTS -- PASS 40/40 (100%).
+----------------------------------------------------------------------
+MTY4OTU2MTAyNzprbWl5YW1vdG81OkgyNToxMDAuMDAl
